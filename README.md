@@ -7,7 +7,7 @@ Pista de slot casera pensada para montarse y empezar a jugar en **menos de 2 min
  
 El repositorio incluye los dos SVG para corte láser y la guía de construcción.
  
-## Contenido
+## Contenido del descargable **TablerosCorte.zip**
  
 | Archivo | Descripción |
 |---|---|
